@@ -4,7 +4,7 @@ Teknik-teknik unsupervised learning menggunakan jcop_usl. Sumber materi: [WiraDK
 
 ## Instalasi Environment
 
-- Jalankan command ini untuk menginstall environment `jcopml`
+- Jalankan command ini untuk menginstall environment
   ```
   conda env create -f env_jcop_usl.yml
   ```
